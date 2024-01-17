@@ -2,7 +2,6 @@ from tkinter import *
 from tkinter import messagebox
 import pyperclip
 import random
-import asyncio
 
 a = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+{}`~[];:'><,./?\|"
 b = []
